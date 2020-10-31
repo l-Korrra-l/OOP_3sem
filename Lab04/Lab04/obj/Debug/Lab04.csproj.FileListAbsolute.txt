@@ -5,3 +5,10 @@ C:\Users\User\Documents\ооп\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReferen
 C:\Users\User\Documents\ооп\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\ооп\Lab04\Lab04\obj\Debug\Lab04.exe
 C:\Users\User\Documents\ооп\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\User\Documents\ооп\OOP\Lab04\Lab04\obj\Debug\Lab04.pdb

@@ -44,6 +44,13 @@ namespace Lab04
             Console.WriteLine("Sum of array: " + StatisticOperation.CountSum(a));
             Console.WriteLine("Delta: " + StatisticOperation.CountDelta(a));
             Console.WriteLine("Number of elements: " + StatisticOperation.Number(a));
+
+            string str = "Let's go home and sleep enough.Please!";
+            Console.WriteLine($"-----string-----\n{str}");
+            Console.WriteLine("Sentences in phrase: " + str.CountPhrases());
+            string str1 = "Кошка съела паука! Тра-та-та";
+            Console.WriteLine($"-----string-----\n{str1}");
+            Console.WriteLine("Sentences in phrase: " + str1.CountPhrases());
             Console.ReadKey();
         }
     }

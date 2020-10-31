@@ -1,0 +1,14 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 5\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.pdb

@@ -1,0 +1,2 @@
+
+Methods of class Lab12.Test with args type: Int32

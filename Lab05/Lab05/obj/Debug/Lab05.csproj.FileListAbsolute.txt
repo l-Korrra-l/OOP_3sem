@@ -12,3 +12,10 @@ C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyR
 C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.exe
 C:\Users\User\Documents\ооп\lab 5\Lab05\Lab05\obj\Debug\Lab05.pdb
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\User\Documents\ооп\OOP\Lab05\Lab05\obj\Debug\Lab05.pdb

@@ -1,0 +1,20 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\bin\Debug\Lab08.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\bin\Debug\Lab08.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\bin\Debug\Lab08.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\bin\Debug\Newtonsoft.Json.dll
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\bin\Debug\Newtonsoft.Json.xml
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\obj\Debug\Lab08.csproj.CopyComplete
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\obj\Debug\Lab08.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab8\Lab08\Lab08\obj\Debug\Lab08.pdb
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\bin\Debug\Lab08.exe.config
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\bin\Debug\Lab08.exe
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\bin\Debug\Lab08.pdb
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\obj\Debug\Lab08.csproj.CopyComplete
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\obj\Debug\Lab08.exe
+C:\Users\User\Documents\ооп\OOP\Lab08\Lab08\obj\Debug\Lab08.pdb

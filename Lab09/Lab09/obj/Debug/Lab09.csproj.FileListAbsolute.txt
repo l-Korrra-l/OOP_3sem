@@ -1,0 +1,14 @@
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\bin\Debug\Lab09.exe.config
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\bin\Debug\Lab09.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\bin\Debug\Lab09.pdb
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\obj\Debug\Lab09.csprojAssemblyReference.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\obj\Debug\Lab09.exe
+D:\ТРЕТИЙ СЕМЕСТР\ООП\lab 9\Lab09\Lab09\obj\Debug\Lab09.pdb
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\bin\Debug\Lab09.exe.config
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\bin\Debug\Lab09.exe
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\bin\Debug\Lab09.pdb
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\obj\Debug\Lab09.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\obj\Debug\Lab09.exe
+C:\Users\User\Documents\ооп\OOP\Lab09\Lab09\obj\Debug\Lab09.pdb

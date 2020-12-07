@@ -15,7 +15,7 @@ namespace Lab04
     {
         static void Main()
         {
-            List a=new List();
+            List a = new List();
             List b = new List();
             b = "What's " + "up" + "?" + b;
             b.Listt();

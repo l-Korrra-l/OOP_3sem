@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab05
 {
-
+   // Квитанция, Накладная, Документ, Чек, Дата, Организация.
     class Program
     {
         static void Main(string[] args)

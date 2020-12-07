@@ -10,7 +10,7 @@ namespace Lab05
     {
         private readonly int id;
         private string title;
-        private DateTime dateOfSignature; //дата подписи
+        private DateTime dateOfSignature; 
         private Client client;
         private Organization organization;
         public Document(string title, DateTime dateOfSignature, Client client, Organization organization)
@@ -25,7 +25,6 @@ namespace Lab05
         {
             get => client.Name;
             set => client.Name = value;
-
         }
         public string Lastname
         {
@@ -48,16 +47,15 @@ namespace Lab05
             get => dateOfSignature;
             set => dateOfSignature = value;
         }
+
         public override bool Equals(object obj)
         {
             if (obj == null)
                 return false;
             if (obj.GetType() != this.GetType())
                 return false;
-            Document odin = (Document)obj;
-            return this.Title == odin.Title;
+            return this.Title == ((Document)obj).Title;
         }
-        //переопределение GetHashCode
         public override int GetHashCode()
         {
             int hash = 47, d = 32;
@@ -69,7 +67,7 @@ namespace Lab05
         public abstract void Info();
         virtual public int GetTotalPrice() { return 0; }
     }
-    sealed class Receipt : Document, IDocument //квитанция
+    sealed class Receipt : Document, IDocument 
     {
         private int servicePrice;
 
@@ -78,7 +76,7 @@ namespace Lab05
         {
             this.servicePrice = servicePrice;
         }
-        public override string ToString()   //переопределение метода(во всех классах)
+        public override string ToString()   
         {
             return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + servicePrice + "\n--------------------------------------\n";
         }
@@ -91,7 +89,7 @@ namespace Lab05
             return servicePrice;
         }
     }
-    sealed class Waybill : Document, IDocument //накладная
+    sealed class Waybill : Document, IDocument 
     {
         private int servicePrice;
         public Waybill(string title, DateTime dateOfSignature, Client client, Organization organization, int servicePrice)
@@ -99,7 +97,7 @@ namespace Lab05
         {
             this.servicePrice = servicePrice;
         }
-        public override string ToString()   //переопределение метода(во всех классах)
+        public override string ToString()   
         {
             return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + servicePrice + "\n--------------------------------------\n";
         }
@@ -112,7 +110,7 @@ namespace Lab05
             return servicePrice;
         }
     }
-    sealed class Check : Document, IDocument //бесплодный класс - нельзя наследовать
+    sealed class Check : Document, IDocument 
     {
         private int totalPrice;
         public Check(string title, DateTime dateOfSignature, Client client, Organization organization, int totalPrice)
@@ -120,7 +118,7 @@ namespace Lab05
         {
             this.totalPrice = totalPrice;
         }
-        public override string ToString()   //переопределение метода(во всех классах)
+        public override string ToString()   
         {
             return Title + " " + DateOfSignature.ToString("MM/dd/yyyy") + " " + Name + " " + Lastname + " " + NameOfOrganization + " " + totalPrice + "\n--------------------------------------\n";
         }

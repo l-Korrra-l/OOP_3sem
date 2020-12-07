@@ -1,0 +1,15 @@
+05.12.2020 13:02:41
+DiskInfo:
+	Name: C:\
+	Type: Fixed
+	FileSystem: NTFS
+	FreeSpace: total - 105 GB, available - 97 GB
+	TotalSize: 472 GB
+	VolumeLabel: 
+
+FileInfo:
+	All way : C:\Users\User\Documents\ооп\OOP\Lab13\Lab13
+	Name: mkalog.txt
+	Capacity: 173
+	Extension: .txt
+	CreationTime: 05.12.2020 13:02:41

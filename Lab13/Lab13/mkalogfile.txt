@@ -1,0 +1,21 @@
+05.12.2020 14:49:33
+DiskInfo:
+	Name: C:\
+	Type: Fixed
+	FileSystem: NTFS
+	FreeSpace: total - 104 GB, available - 97 GB
+	TotalSize: 472 GB
+	VolumeLabel: 
+
+FileInfo:
+	All way : C:\Users\User\Documents\ооп\OOP\Lab13\Lab13
+	Name: Class.cs
+	Capacity: 5473
+	Extension: .cs
+	CreationTime: 05.12.2020 12:44:55
+
+DirInfo:
+	FilesCount: 6
+	Createon time: 05.12.2020 11:20:43
+	SubDirectories: 10
+	Parents: Lab13

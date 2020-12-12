@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Check xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title>Title</title>
+  <dateOfSignature>2020-11-12T00:00:00</dateOfSignature>
+  <client>Someone</client>
+  <organization>TheCoolestOrganization</organization>
+  <Title>Title</Title>
+  <DateOfSignature>2020-11-12T00:00:00</DateOfSignature>
+  <totalPrice>200500</totalPrice>
+</Check>

@@ -1,0 +1,7 @@
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\bin\Debug\14.client.exe.config
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\bin\Debug\14.client.exe
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\bin\Debug\14.client.pdb
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\obj\Debug\14.client.csprojAssemblyReference.cache
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\obj\Debug\14.client.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\obj\Debug\14.client.exe
+C:\Users\User\Documents\ооп\OOP\Lab14\14.client\14.client\obj\Debug\14.client.pdb

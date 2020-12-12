@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Дети>
+  <child year="2003">
+    <name>Костя</name>
+  </child>
+  <child year="1815">
+    <name>Инна</name>
+  </child>
+  <child year="2345">
+    <name>Олег</name>
+  </child>
+</Дети>
